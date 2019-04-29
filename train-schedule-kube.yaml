@@ -5,7 +5,6 @@ metadata:
     run: api-server
   name: api-server
   namespace: test11
-  resourceVersion: "3203"
 spec:
   progressDeadlineSeconds: 600
   replicas: 1
