@@ -4,7 +4,7 @@ metadata:
   labels:
     run: api-server
   name: api-server
-  namespace: demo
+  namespace: test11
   resourceVersion: "3203"
 spec:
   progressDeadlineSeconds: 600
